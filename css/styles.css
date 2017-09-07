@@ -52,9 +52,21 @@ body {
   margin-left: 30px;
 }
 
+.smallGreenFrame {
+  background-color: rgb(206,242,224);
+  border-color: rgb(163,191,177);
+  border-width: 1px;
+  border-style: solid;
+  width: 95%%;
+  height: 30px;
+  margin-right: 6px;
+  margin-left: 6px;
+  margin-top: 6px;
+}
+
 .BlueFrame {
   background-color: rgb(245,250,255);
-  border-color: rgb(206,223,242);
+  border-color: rgb(163,176,191);
   border-width: 1px;
   border-style: solid;
   float: left;
@@ -62,6 +74,18 @@ body {
   height: 750px;
   margin-left: 3px;
   margin-bottom: 3px;
+}
+
+.smallBlueFrame {
+  background-color: rgb(206,223,242);
+  border-color: rgb(163,191,177);
+  border-width: 1px;
+  border-style: solid;
+  width: 95%%;
+  height: 30px;
+  margin-right: 6px;
+  margin-left: 6px;
+  margin-top: 6px;
 }
 
 .PurpleFrame {
@@ -74,6 +98,18 @@ body {
   height: 385px;
   margin-top: 3px;
   margin-left: 30px;
+}
+
+.smallPurpleFrame {
+  background-color: rgb(206,242,224);
+  border-color: rgb(163,191,177);
+  border-width: 1px;
+  border-style: solid;
+  width: 95%%;
+  height: 30px;
+  margin-right: 6px;
+  margin-left: 6px;
+  margin-top: 6px;
 }
 
 .NoMarginY {
