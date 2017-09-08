@@ -121,3 +121,7 @@ body {
 .center {
   text-align: center;
 }
+
+.padTop {
+  padding-top: 0px;
+}
